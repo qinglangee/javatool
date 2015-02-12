@@ -1,4 +1,4 @@
-package com.lifeix.tool.properties;
+package com.zhch.javatool.properties;
 
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;
