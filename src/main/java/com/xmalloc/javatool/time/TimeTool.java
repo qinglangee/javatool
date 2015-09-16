@@ -1,4 +1,4 @@
-package com.zhch.javatool.time;
+package com.xmalloc.javatool.time;
 
 import java.text.DateFormat;
 import java.text.ParseException;

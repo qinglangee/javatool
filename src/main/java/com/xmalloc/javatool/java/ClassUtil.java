@@ -1,4 +1,4 @@
-package com.zhch.javatool.java;
+package com.xmalloc.javatool.java;
 
 public class ClassUtil {
 	

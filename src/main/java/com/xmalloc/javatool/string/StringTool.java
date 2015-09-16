@@ -1,4 +1,4 @@
-package com.zhch.javatool.string;
+package com.xmalloc.javatool.string;
 
 import java.util.ArrayList;
 import java.util.List;

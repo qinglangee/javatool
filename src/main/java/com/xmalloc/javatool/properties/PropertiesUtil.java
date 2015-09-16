@@ -1,4 +1,4 @@
-package com.zhch.javatool.properties;
+package com.xmalloc.javatool.properties;
 
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;

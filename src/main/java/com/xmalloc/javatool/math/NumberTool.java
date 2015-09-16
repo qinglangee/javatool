@@ -1,4 +1,4 @@
-package com.zhch.javatool.math;
+package com.xmalloc.javatool.math;
 
 import java.text.NumberFormat;
 
