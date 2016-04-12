@@ -25,11 +25,11 @@
 	<distributionManagement>
 		<repository>
 			<id>localRelease</id>
-			<url>http://192.168.0.55:8081/nexus/content/repositories/releases/</url>
+			<url>http://nexus.insqt.com/nexus/content/repositories/releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>localSnapshot</id>
-			<url>http://192.168.0.55:8081/nexus/content/repositories/snapshots/</url>
+			<url>http://nexus.insqt.com/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
